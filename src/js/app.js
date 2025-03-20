@@ -9,7 +9,7 @@ import "../style/index.css";
         background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da", // this is the image's url that will be used as a background for the profile cover
         avatarURL: "https://randomuser.me/api/portraits/women/42.jpg", // this is the url for the profile avatar
         socialMediaPosition: "right", // social media bar position (left or right)
-        
+        test
         twitter: null, // social media usernames
         github: null,
         linkedin: null,
